@@ -28,6 +28,8 @@
 <br>
 1.0.12General Conclusion:
 <br>
+  <br>
+  <br>
 Data diagram:
   <br>
 ![image](https://user-images.githubusercontent.com/79703254/158194653-7c737f77-403a-497e-85ec-69e0c6462ff5.png)
